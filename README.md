@@ -1,5 +1,5 @@
 
-<h1 align="center">Baileys-Qr Made by SUHAIL TECH</h1>
+<h1 align="center">Baileys-Qr Made by YS STARK</h1>
 <p align="center"> Get Baileys Qr, where session id Converted into 'base64'. You can change it According to your needs. </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 ## Installation
 ---
-1.  ***Run on [`Replit`](https://replit.com/github/SuhailTechInfo/Baileys-Qr)***
+1.  ***Run on [`Replit`](https://replit.com/github.com/ysstarkx/Baileys-Qr_beta)***
 2. ***Run manually in any terminal Terminal, `TERMUX, VPS, RDP, etc.`***
 ```
 $ git clone https://replit.com/github.com/SuhailTechInfo/Baileys-Qr.git
